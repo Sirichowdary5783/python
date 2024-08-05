@@ -1,5 +1,5 @@
 # this a pythin calculator apllication
-def addition (a,b,c):
-  return a+b+c
+def add(a,b):
+  return a+b
 def sub(a,b):
   retur a-b
